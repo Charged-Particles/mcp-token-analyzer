@@ -30,3 +30,7 @@ Open the file in your text editor and replace it with this configuration:
   }
 }
 ```
+
+<div align="center">
+  <img src="screenshot.png" alt="Screenshot" width="600"/>
+</div>
