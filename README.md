@@ -1,4 +1,4 @@
-# Remote MCP Server for Alanyzing Tokens using CoinGecko Market Data
+# Remote MCP Server for Analyzing Tokens using CoinGecko Market Data
 
 ## Develop locally
 
